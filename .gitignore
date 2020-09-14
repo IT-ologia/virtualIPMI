@@ -1,0 +1,5 @@
+/logs/*.log
+/linters/.tox/
+/linters/.mypy_cache/
+__pycache__/
+.vscode
