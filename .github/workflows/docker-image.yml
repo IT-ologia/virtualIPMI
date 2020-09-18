@@ -10,7 +10,7 @@ on:
 
 env:
   # Image's name.
-  IMAGE_NAME: it-ologia/virtualipmi
+  IMAGE_NAME: virtualipmi
 
 jobs:
 
